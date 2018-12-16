@@ -1,0 +1,12 @@
+#anagrafica{
+  border: 2px solid #41e1dd;
+  border-radius: 12px;
+  padding: 20px 30px 20px 30px;
+  margin: 40px 100px 10px 100px;
+}
+#prenotazione{
+  border: 2px solid #464ae1;
+  border-radius: 12px;
+  padding: 20px 30px 20px 30px;
+  margin: 40px 100px 100px 100px;
+}
